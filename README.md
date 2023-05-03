@@ -1,4 +1,4 @@
-# Destiny 2 Subclass build 
+# Destiny 2 Subclass Guide/Walkthrough
 ## Why?
 - To inform people the best subclass build for each class in Destiny 2 and staying upto date with links to videos talking about why it's the best. 
 
