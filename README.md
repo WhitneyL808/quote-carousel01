@@ -10,3 +10,5 @@
 ## Citations
 - [Hunter stasis img #1](https://www.shacknews.com/article/120221/hunter-revenant-stasis-subclass-gets-the-latest-destiny-2-beyond-light-spotlight)
 - [ Hunetr stasis img #2](https://www.thegamer.com/destiny-2-beyond-light-best-revenant-hunter-stasis-builds/)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/quote-carousel)
